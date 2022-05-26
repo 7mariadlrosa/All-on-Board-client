@@ -1,4 +1,4 @@
-# ALL ON BOARD (Client) 🎲❤♥️
+# ALL ON BOARD (Client) 🎲❤
 
 ## TEST OUR WEB
 https://all-onboard.netlify.app/
